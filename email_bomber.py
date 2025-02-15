@@ -11,7 +11,7 @@ class bColors:
 
 def banner():
     print(bColors.YELLOW + '<<< Email-Bomber >>>')
-    # print(bColors.YELLOW + '<<< made with pyCharm >>>')
+    # print(bColors.YELLOW + '<<< made with Atom >>>')
     print(bColors.YELLOW + r'''
  
      ''')
