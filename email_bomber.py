@@ -11,7 +11,7 @@ class bColors:
 
 def banner():
     print(bColors.YELLOW + '<<< darkboss1-Email-Bomber >>>')
-    print(bColors.YELLOW + '<<< Contact Tg:@darkboss1bd >>>')
+    print(bColors.GREEN + '<<< Contact Tg:@darkboss1bd >>>')
     print(bColors.YELLOW + '<<< made with darkboss1 >>>')
     print(bColors.YELLOW + r'''
  
