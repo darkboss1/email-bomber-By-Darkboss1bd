@@ -10,8 +10,8 @@ class bColors:
 
 
 def banner():
-    print(bColors.YELLOW + '<<< Email-Bomber >>>')
-    # print(bColors.YELLOW + '<<< made with Atom >>>')
+    print(bColors.YELLOW + '<<< darkboss1-Email-Bomber >>>')
+    # print(bColors.YELLOW + '<<< made with darkboss1 >>>')
     print(bColors.YELLOW + r'''
  
      ''')
